@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="me.neo_0815.planner|settings" xmlns="me.neo_0815.planner|settings" xmlns:neo="me.neo_0815.planner|settings" elementFormDefault="qualified">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="https://github.com/neo-0815/XMLSchema/Planner/settings" xmlns="https://github.com/neo-0815/XMLSchema/Planner/settings" xmlns:neo="https://github.com/neo-0815/XMLSchema/Planner/settings" elementFormDefault="qualified">
 	<xs:element name="settings">
 		<xs:complexType>
 			<xs:sequence>
